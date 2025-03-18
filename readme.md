@@ -12,3 +12,6 @@ This project was created to bring together intuitively motivated programmers who
 
 
 ##  List of projects will go here.
+* I'm planning on a project using A.I. For financial data analysis that helped me to make clear decisions
+on the amount of money I need to earn per year in consideration of inflation, average income, current debt
+and creeping debt amount, and slow incremental increase in cost of goods sold.
