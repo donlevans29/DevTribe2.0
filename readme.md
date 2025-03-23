@@ -28,3 +28,6 @@ This group includes:
 
 ##  List of projects will go here.
 TrueMoney(beta) = helping fathers grow their networth to navigate the challenges and threats of recession and the consequences that brings with data that allows them to gain a firm strategy to come out on top.
+
+## Contributing
+If you'd like to contribute to this project, please see the [Contribution Workflow](CONTRIBUTING.md) for detailed guidelines.
