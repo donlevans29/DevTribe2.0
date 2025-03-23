@@ -4,14 +4,27 @@
 
 # DevTribe 2.0
 
-DevTribe 2.0 is a GitHub project that serves as a hub for all the projects we will build as a community.
+DevTribe 2.0 is a GitHub project that serves as a hub for career changers" or "career transitioners" to contribute to projects we will build as a community.
+
 
 ## Motivation
 
-This project was created to bring together intuitively motivated programmers who are passionate about learning, sharing knowledge, and building innovative projects. Our goal is to foster a collaborative environment where developers of all skill levels can contribute, grow, and create impactful software together.
+This project was created to bring together people who are passionate about learning, sharing knowledge, and building innovative projects. 
+
+Have professional experience in non-development fields but are interested in moving into software development
+Are exploring multiple potential paths forward (employment vs entrepreneurship)
+Are using personal projects as both learning vehicles and portfolio pieces
+Are open to discovering where their technical interests might lead them professionally
+
+This group includes:
+
+👉 Professionals from fields like finance, healthcare, education, or retail seeking better opportunities
+👉 People with some technical background (analysts, IT support) looking to advance their skills
+👉 Creative professionals wanting more technical control over their projects
+👉 People who discovered coding through hobby projects and want to turn it into a career
+👉 Recent graduates from non-CS fields who developed an interest in programming
+👉 People whom have an intrinsic desire for intellectual growth
 
 
 ##  List of projects will go here.
-* I'm planning on a project using A.I. For financial data analysis that helped me to make clear decisions
-on the amount of money I need to earn per year in consideration of inflation, average income, current debt
-and creeping debt amount, and slow incremental increase in cost of goods sold.
+TrueMoney(beta) = helping fathers grow their networth to navigate the challenges and threats of recession and the consequences that brings with data that allows them to gain a firm strategy to come out on top.
