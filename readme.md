@@ -18,12 +18,12 @@ Are open to discovering where their technical interests might lead them professi
 
 This group includes:
 
-👉 Professionals from fields like finance, healthcare, education, or retail seeking better opportunities
-👉 People with some technical background (analysts, IT support) looking to advance their skills
-👉 Creative professionals wanting more technical control over their projects
-👉 People who discovered coding through hobby projects and want to turn it into a career
-👉 Recent graduates from non-CS fields who developed an interest in programming
-👉 People whom have an intrinsic desire for intellectual growth
+👉 Professionals from fields like finance, healthcare, education, or retail seeking better opportunities<br>
+👉 People with some technical background (analysts, IT support) looking to advance their skills<br>
+👉 Creative professionals wanting more technical control over their projects<br>
+👉 People who discovered coding through hobby projects and want to turn it into a career<br>
+👉 Recent graduates from non-CS fields who developed an interest in programming<br>
+👉 People whom have an intrinsic desire for intellectual growth<br>
 
 
 ##  List of projects will go here.
