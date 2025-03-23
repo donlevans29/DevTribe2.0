@@ -22,15 +22,14 @@ The contribution process follows these steps:
 ### Step 1: Create a Feature Branch
 - Always create a new branch for your work to avoid conflicts with the `main` branch.
 - Use a descriptive branch name:
-  ```sh
-  git checkout -b feature/your-feature-name
+```sh
+git checkout -b feature/your-feature-name
 
 ### Step 2: Create a Feature Branch
 
 - Implement your changes in the appropriate files.
 - Test your changes locally to ensure they work as expected.
 
-```
-git add
+```git add
 git commit
 ```
