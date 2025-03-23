@@ -24,3 +24,13 @@ The contribution process follows these steps:
 - Use a descriptive branch name:
   ```sh
   git checkout -b feature/your-feature-name
+
+### Step 2: Create a Feature Branch
+
+- Implement your changes in the appropriate files.
+- Test your changes locally to ensure they work as expected.
+
+```
+git add
+git commit
+```
