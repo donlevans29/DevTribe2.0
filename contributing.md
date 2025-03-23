@@ -117,25 +117,45 @@ git commit -m "Add list of target audience to README.md"
 Scenario: Adding a New Section to the README.md
 
 1.Create a Branch:
+```
+git checkout -b feature/add-readme-section
 
+```
 
 2. Make Changes: Edit the README.md file to add the new section.
 
+
+```
 3. Commit Changes:
 
+```
+git add README.md
+git commit -m "Add motivation section to README.md"
+
+```
+
 4. Pull Latest Changes:
+```
+
+git pull origin main
+
+```
 
 5. Push Changes:
+```
+git push origin feature/add-readme-section
+
+```
 
 6. Create a Pull Request:
 
-Go to GitHub and create a PR for the feature/add-readme-section branch.
+Go to GitHub and create a PR for the <b>feature/add-readme-section</b> branch.
 Add a description of the changes.
 
 7. Review and Merge:
   - Collaborators review the PR.
   - Resolve any conflicts if necessary.
-  - Merge the PR into the main branch.
+  - Merge the PR into the <b>main</b> branch.
 
 <hr>
 
