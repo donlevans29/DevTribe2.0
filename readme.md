@@ -23,7 +23,7 @@ This group includes:
 👉 Creative professionals wanting more technical control over their projects<br>
 👉 People who discovered coding through hobby projects and want to turn it into a career<br>
 👉 Recent graduates from non-CS fields who developed an interest in programming<br>
-👉 People whom have an intrinsic desire for intellectual growth<br>
+👉 People whom have an intrinsic desire for professional growth<br>
 
 
 ##  List of projects will go here.
