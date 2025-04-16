@@ -23,11 +23,11 @@ This group includes:
 👉 Creative professionals wanting more technical control over their projects<br>
 👉 People who discovered coding through hobby projects and want to turn it into a career<br>
 👉 Recent graduates from non-CS fields who developed an interest in programming<br>
-👉 People whom have an intrinsic desire for intellectual growth<br>
+👉 People whom have an intrinsic desire for professional growth<br>
 
 
 ##  List of projects will go here.
-TrueMoney(beta) = helping fathers grow their networth to navigate the challenges and threats of recession and the consequences that brings with data that allows them to gain a firm strategy to come out on top.
+[Finance Project](https://github.com/donlevans29/TrueMoney.git) = helping fathers grow their networth to navigate the challenges and threats of recession and the consequences that brings with data that allows them to gain a firm strategy to come out on top.
 
 ## Contributing
 If you'd like to contribute to this project, please see the [Contribution Workflow](contributing.md) for detailed guidelines.
