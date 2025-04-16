@@ -1,3 +1,5 @@
+
+
 # Variables and basic data types
 income = 5000  # Integer
 expenses = 3000.50  # Float
