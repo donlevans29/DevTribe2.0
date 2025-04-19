@@ -1,5 +1,4 @@
 
-
 # Variables and basic data types
 income = 5000  # Integer
 expenses = 3000.50  # Float
@@ -17,7 +16,6 @@ expenses_list = [1000, 500, 200, 300]  # List
 # Tuple of fixed expenses
 fixed_expenses = (1000, 200)  # Tuple
 # Adding a new expense to the list  
-
 
 expenses_list.append(150)  # Adding a new expense
 # Removing an expense from the list

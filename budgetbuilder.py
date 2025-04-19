@@ -4,7 +4,7 @@ def calculate_profit():
     income = float(income_entry.get())
     expenses = float(expenses_entry.get())
     profit = income - expenses
-    result_label.config(text=f"Profit: ${profit:.2f}")
+    result_label.config(text=f"Cashflow: ${profit:.2f}")
 
 # Create the main window
 root = tk.Tk()
